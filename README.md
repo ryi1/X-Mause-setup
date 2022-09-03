@@ -1,4 +1,8 @@
-# X-Mause-setup
+[![1057999214.webp](https://i.postimg.cc/25Fh1cCx/1057999214.webp)](https://postimg.cc/mcktqSzc)
+
+# X-Mause-setup 
+
+
 This is my configuration of X-Mouse button control
 
 it has two layers that are exchanged when pressing the control key
@@ -32,3 +36,7 @@ Open the X-Mouse button control application and press the load profile button
 [![abrir-conf-drawio.png](https://i.postimg.cc/Yqrtf4rz/abrir-conf-drawio.png)](https://postimg.cc/Cd2ywxfR)
 
 Select the file my-config.xmbcp and press open and voila you will have the configuration ready to work
+
+#to download X-Mouse button control Enter this link
+
+https://x-mouse-button-control.uptodown.com/windows
